@@ -1,4 +1,4 @@
-# cocos2d-x
+#cocos2d-x  
 Record study of learning cocos2d-x  
 **Study Plan**  
 
