@@ -1,16 +1,20 @@
-#cocos2d-x  
-Record study of learning cocos2d-x  
+# Cocos2d-x  
+Record Study Of Learning Cocos2d-x  
 **Study Plan**  
 
-* Objective-C
+* Language Need To Command
 * C++
-* Cocoa
-* XCode
-* OpenGL
-* Android Framework
 * Java
-* JNI
-* Android NDK
-* Windows programming design
+* Objective-C
+* Script Language Recommend
+* Lua or Javascript
+* IDE Recommend
+* XCode
 * Visual Studio
 * Eclipse
+* Others Need To Understand
+* OpenGL
+* Cocoa
+* Android Framework
+* JNI
+* Android NDK
